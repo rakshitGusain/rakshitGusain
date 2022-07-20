@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit</h1>
 <h3 align="center">A passionate software/web developer from India</h3>
 
-- 🌱 I’m currently learning **solidity,react**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **rakshitgusain30@gmail.com**
 
