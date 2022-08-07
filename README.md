@@ -1,14 +1,18 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-api.kathmandupost.com%2Fthumb.php%3Fsrc%3Dhttps%3A%2F%2Fassets-cdn.kathmandupost.com%2Fuploads%2Fsource%2Fnews%2F2022%2Fopinion%2Fshutterstock1914164533-1652959735.jpg%26w%3D900%26height%3D601&imgrefurl=https%3A%2F%2Fkathmandupost.com%2Fcolumns%2F2022%2F05%2F19%2Fnonprogrammers-in-programming&tbnid=9clATXbtOFP6OM&vet=12ahUKEwixk-SPr7X5AhWPzqACHcwzBlMQxiAoCXoECAAQFw..i&docid=2xe8MQWz9BmXjM&w=900&h=675&itg=1&q=programmer%20cover%20photo&ved=2ahUKEwixk-SPr7X5AhWPzqACHcwzBlMQxiAoCXoECAAQFw)](https://github.com/rakshitGusain)
+[![MasterHead](https://www.google.com/search?q=programmimgcover+gif&tbm=isch&ved=2ahUKEwivl8nXr7X5AhWigWMGHazPAaIQ2-cCegQIABAA&oq=programmimgcover+gif&gs_lcp=CgNpbWcQAzoECCMQJ1CiYliCZ2DxaWgBcAB4AIAB0QGIAacEkgEFMC4zLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=OAbwYq-bOaKDjuMPrJ-HkAo&bih=572&biw=1242#imgrc=y7W1i5VvUrG44M)](https://github.com/rakshitGusain)
+
 <h1 align="center">Hi 👋, I'm Rakshit</h1>
 <h3 align="center">A passionate software/web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🌱 I’m currently learning **solidity,react**
+
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rakshitgusain30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rakshit gusain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit gusain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@rakshitgusain30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rakshitgusain30" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rakshitgusain30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rakshitgusain30" height="30" width="40" /></a>
 </p>
 
